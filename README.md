@@ -1,6 +1,6 @@
 ![Sandstone Logo](white.png)
 # Sandstone
-*The AI that remembers everything your organization has ever learned*
+*The AI that remembers everything your organization has ever learned (and puts it to good use)*
 
 ---
 
