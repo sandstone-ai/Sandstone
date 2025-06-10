@@ -1,4 +1,4 @@
-![Sandstone Logo](text+logo.svg)
+![Sandstone Logo](white.png)
 # Sandstone
 *The AI that remembers everything your organization has ever learned*
 
