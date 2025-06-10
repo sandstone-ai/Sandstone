@@ -33,6 +33,7 @@ Sandstone changes that. We're building the AI platform that captures, preserves,
 - **Tool Fragmentation**: Decision context is scattered across Slack, email, meetings, documents, and tribal knowledge with no central intelligence
 - **Time Pressure**: In fast-moving organizations, teams don't have time to properly capture and share decision rationale
 - **Cultural Gaps**: The "unwritten rules" and cultural context that guide decision-making are never explicitly preserved
+- **Mergers & Acquisitions**: Critical knowledge from acquired companies—client relationships, process expertise, and institutional memory—gets lost during integration, eroding deal value
 
 **The devastating daily impact:**
 
